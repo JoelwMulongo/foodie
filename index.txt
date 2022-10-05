@@ -114,8 +114,8 @@ Chicken
 Fried Chicken Unlimited
 
 Price:
-$49.00
-$69.00
+Ksh49.00
+Ksh69.00
 
 
 alt = Burger King Whopper
@@ -126,8 +126,8 @@ Noddles
  
 Burger King Whopper
 
-$29.00 
-$39.00
+Ksh29.00 
+Ksh39.00
 
 alt = White Castle Pizzas
 
@@ -136,8 +136,8 @@ Pizzas
 
 White Castle Pizzas
 
-$49.00 
-$69.00
+Ksh49.00 
+Ksh69.00
 
 alt = Bell Burrito Supreme
 
@@ -146,8 +146,8 @@ Burrito
  
 Bell Burrito Supreme
 
-$59.00
-$69.00
+Ksh59.00
+Ksh69.00
 
 alt = Kung Pao Chicken BBQ
 
@@ -156,8 +156,8 @@ Nuggets
 
 Kung Pao Chicken BBQ
 
-$49.00
-$69.00
+Ksh49.00
+Ksh69.00
 
 alt = Wendy's Chicken
 
@@ -166,8 +166,8 @@ Chicken
 
 Wendy's Chicken
 
-$49.00 
-$69.00
+Ksh49.00 
+Ksh69.00
 
 
 

@@ -86,7 +86,7 @@ window.addEventListener("scroll", function () {
     }
 
     lastScrollPos = activeScrollPos;
-    deliveryBoy.style.transform = `translateX(${deliveryBoyMove}px)`;
+    deliveryBoy.style.transform = `translateX(Ksh{deliveryBoyMove}px)`;
   }
 
 });
