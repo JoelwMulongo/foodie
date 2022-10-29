@@ -30,7 +30,7 @@ $.noConflict();
 			this.jQuerypaypalForm = this.jQueryelement.find( "#paypal-form" ); // PayPal form
 			
 			
-			this.currency = "&#75;"; // HTML entity of the currency to be displayed in the layout
+			this.currency = "&#75;&#83;&#104;"; // HTML entity of the currency to be displayed in the layout
 			this.currencyString = "kes"; // Currency symbol as textual string
 			this.paypalCurrency = "USD"; // PayPal's currency code
 			this.paypalBusinessEmail = "yourbusiness@email.com"; // Your Business PayPal's account email address
