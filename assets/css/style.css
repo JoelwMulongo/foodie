@@ -808,6 +808,16 @@ body.active { overflow: hidden; }
 .food-menu-card .price { color: var(--deep-saffron); }
 
 .food-menu-card .del { color: var(--gray-x-11-gray); }
+.form input.qty {
+	width: 60px;
+	border: 2px solid #eee;
+	font: 1.5em 'PT Serif', serif;
+	background: #f9f9f9;
+	color: #000;
+	border-radius: 3px;
+	margin-left: 0.4em;
+	
+}
 
 
 
