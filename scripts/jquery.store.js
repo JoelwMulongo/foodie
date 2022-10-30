@@ -31,7 +31,7 @@ $.noConflict();
 			
 			
 			this.currency = "&#75;&#83;&#104;"; // HTML entity of the currency to be displayed in the layout
-			this.currencyString = "kes"; // Currency symbol as textual string
+			this.currencyString = "KSh"; // Currency symbol as textual string
 			this.paypalCurrency = "USD"; // PayPal's currency code
 			this.paypalBusinessEmail = "yourbusiness@email.com"; // Your Business PayPal's account email address
 			this.paypalURL = "https://www.sandbox.paypal.com/cgi-bin/webscr"; // The URL of the PayPal's form
